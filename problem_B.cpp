@@ -1,3 +1,5 @@
+//i made on purpose sorting by myself, and because of that code is running way slower that it can. But i wanted to make it like that for practicing my algorithm skill
+
 #include <iostream>
 #include <vector>
 
@@ -69,4 +71,5 @@ int main(){
         cout<<x<<"\n";
     }
      
+
 }
